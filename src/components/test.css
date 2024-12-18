@@ -1,0 +1,23 @@
+.usestate_test,
+.prop_test {
+  padding: 10px;
+  text-align: left;
+}
+
+.usestate_test p {
+  margin: 0;
+  margin-bottom: 10px;
+  font-size: 20px;
+  color: blue;
+  font-weight: bold;
+}
+
+.prop_test p {
+  font-size: 20px;
+  margin: 0;
+  margin-bottom: 10px;
+}
+
+.usestate_test_inner {
+  margin-bottom: 10px;
+}
